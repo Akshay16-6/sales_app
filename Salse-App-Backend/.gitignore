@@ -1,0 +1,49 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+ ../.metadata/
+        ../10-09-2023.zip
+        ../32-Resr-App1/
+        ../33-Resr-Produces-App/
+        ../34-Resr-Consumer-App/
+        ../35-Resr-IRCTC-App/
+        ../36-Resr-API-CRUD-App/
+        ../37-Resr-API-H2-CRUD-App/
+        ../ApiTestingProject-2/
+        ../BankingApp/
+        ../ExamPortalNewDev/
+        ../IOT Notes.docx
+        ../Java_Logical_Programming_Practice/
+        ../sales_app/
+
